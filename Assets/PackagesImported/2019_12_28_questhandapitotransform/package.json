@@ -1,0 +1,11 @@
+{                                                                                
+  "name": "be.eloistree.questhandapitotransform",                              
+  "displayName": "Quest hand API to transform",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "description": "This package allow you to have transform points to work with when you use the Oculus API.",                         
+  "keywords": ["Script","Tool"],                       
+  "category": "Script",                   
+  "dependencies":{"be.eloistree.license":"0.0.1"}   
+
+} 

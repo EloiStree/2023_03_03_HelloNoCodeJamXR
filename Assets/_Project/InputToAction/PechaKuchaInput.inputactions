@@ -1,0 +1,158 @@
+{
+    "name": "PechaKuchaInput",
+    "maps": [
+        {
+            "name": "ClassicInput",
+            "id": "ebd16d04-74d6-4310-88cb-bcba16db62ab",
+            "actions": [
+                {
+                    "name": "ResetAndPlay",
+                    "type": "Button",
+                    "id": "27cafc8b-3aa7-444c-aef3-3fbe5cc085be",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ResetAndStop",
+                    "type": "Button",
+                    "id": "7a748a3e-a8d9-4c36-950f-237b5bac2252",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "NextSlide",
+                    "type": "Button",
+                    "id": "f8318faa-daf3-47a3-9657-d07581104e3c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "PreviousSlide",
+                    "type": "Button",
+                    "id": "88c25748-8127-49d0-8c44-e3676c744728",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SwitchPause",
+                    "type": "Button",
+                    "id": "e331ac6a-870c-4343-9b5e-21e184922e56",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7d292270-a347-427e-8dde-0c0c8d97aa5e",
+                    "path": "<Keyboard>/backspace",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ResetAndPlay",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "401a441e-db2d-49bb-b9a2-4f2ead95664e",
+                    "path": "<Keyboard>/delete",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ResetAndPlay",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "760e2f42-c410-4d67-85c0-bc899709732e",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ResetAndStop",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ea483c49-933e-4053-81be-eb9b0a6b3e0d",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "NextSlide",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0ef9bc72-0af6-4d9d-b68e-bf166d22ba05",
+                    "path": "<XRController>{LeftHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "NextSlide",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dd94ded8-b753-41e0-8ce8-40026c7a7b26",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PreviousSlide",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "17e477f6-45b9-4df4-9afc-098af5fb2b48",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PreviousSlide",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a37cbf55-f29d-4acb-bea0-bf76add99a2c",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SwitchPause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "04bc91b8-e5d8-4539-b743-343b0f73a767",
+                    "path": "<XRController>{LeftHand}/thumbstickClicked",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SwitchPause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
