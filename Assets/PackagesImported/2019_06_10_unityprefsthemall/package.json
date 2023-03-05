@@ -1,0 +1,30 @@
+{
+<<<<<<< HEAD
+    "name": "be.eloistree.unityprefsthemall",
+    "displayName": "Unity Prefs Them All",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "Allow you to create persistance on the object in the Scene",
+    "keywords": [
+        "Persistance",
+        "Tool",
+        "Unity"
+    ],
+    "category": "Script"
+}
+=======
+  "name": "be.eloiexperiments.unityprefsthemall",
+  "displayName": "Unity Prefs Them All",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "description": "Allow you to create persistance on the object in the Scene",
+  "keywords": [
+    "Persistance",
+    "Tool",
+    "Unity"
+  ],
+  "category": "Script",
+  "dependencies": {"be.eloistree.license":"0.0.1"
+  }
+}
+>>>>>>> 2c77ebdc325d3766ac2f375a97a448c10663d2b1

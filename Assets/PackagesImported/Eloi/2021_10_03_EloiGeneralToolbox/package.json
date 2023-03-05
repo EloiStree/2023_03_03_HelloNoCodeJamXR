@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.generaltoolbox",                              
+  "displayName": "Eloi General Toolbox",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package is a compilation of all the small code I using all the time most of my project. It is only compilation of script to keep it light. If you want more ready to use assets you can look for 'Eloi Essential Assets ToolBox'",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"streeeloi@gmail.com",
+"url":"https://github.com/EloiStree"},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

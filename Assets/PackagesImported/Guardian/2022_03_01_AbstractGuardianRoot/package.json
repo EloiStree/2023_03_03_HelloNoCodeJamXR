@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.abstractguardianroot",                              
+  "displayName": "2022_03_01_AbstractGuardianRoot",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This tool allows to have an abstract layer on the guardian that will be use natively behind it.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"git@github.com-EloiStree:EloiStree/2022_03_01_AbstractGuardianRoot.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

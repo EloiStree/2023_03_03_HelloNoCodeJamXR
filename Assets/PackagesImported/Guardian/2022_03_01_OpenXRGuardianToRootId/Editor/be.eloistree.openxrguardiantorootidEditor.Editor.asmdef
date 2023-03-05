@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.openxrguardiantorootidEditor",          
+    "references": ["be.eloistree.openxrguardiantorootid","be.eloistree.abstractguardianroot"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

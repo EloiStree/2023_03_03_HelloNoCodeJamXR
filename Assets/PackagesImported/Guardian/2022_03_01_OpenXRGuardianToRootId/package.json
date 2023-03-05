@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.openxrguardiantorootid",                              
+  "displayName": "2022_03_01_OpenXRGuardianToRootId",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This is a toolbox based on OpenXR that provide and abstract layer of whare it the room and the volume of it.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"git@github.com-EloiStree:EloiStree/2022_03_01_OpenXRGuardianToRootId.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
