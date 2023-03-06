@@ -75,6 +75,7 @@ Where to learn Unity 3D by myself ?
     - https://www.youtube.com/@ArnaudJopart FR Très bonne vidéo qui prend le temps d'aller loin.
     - https://www.youtube.com/@Acegikmo Advance and technicial but quiete and precise
 - Udemy: [Unity](https://www.udemy.com/courses/search/?src=ukw&q=unity) - [C#](https://www.udemy.com/courses/search/?src=ukw&q=c%23)  
+- Eloi Previous workshop: https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki/PreviousWorkshopFR
 
 Unity Learn through Unity Hub : [Unity Essential](https://learn.unity.com/tutorial/welcome-to-unity-essentials)   
 ![image](https://user-images.githubusercontent.com/20149493/223066437-deaf55e5-d250-4554-ac96-79d9a9bec0df.png)  
