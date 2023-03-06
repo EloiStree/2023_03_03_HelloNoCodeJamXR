@@ -59,6 +59,12 @@ If the Quest is not detected you can download:
 - Quest ADB driver: https://developer.oculus.com/downloads/package/oculus-adb-drivers/
 
 
+Also good to download:
+ - Steam VR: https://store.steampowered.com/steamvr?l=french
+ - ALVR: https://alvr-org.github.io
+ - Virtual Desktop: 
+
+
 Where to learn Unity 3D by myself ?
 - [Unity Learn on official website](https://learn.unity.com/?_gl=1%2Ah530y3%2A_gcl_aw%2AR0NMLjE2MzY3MTY5ODMuQ2p3S0NBaUF2cmlNQmhBdUVpd0E4Q3M1bGFJenM2UXZhV2RxendXU3cwSUlFN3ZYLXBrLTgySU50QWRTTk5acEl4dThCUGZPMnBFeTFSb0M5ZDhRQXZEX0J3RQ..%2A_gcl_dc%2AR0NMLjE2MzY3MTY5ODMuQ2p3S0NBaUF2cmlNQmhBdUVpd0E4Q3M1bGFJenM2UXZhV2RxendXU3cwSUlFN3ZYLXBrLTgySU50QWRTTk5acEl4dThCUGZPMnBFeTFSb0M5ZDhRQXZEX0J3RQ..&_ga=2.182193959.1225568882.1643885899-337911776.1601136010) [Unity learn C#](https://unity.com/how-to/learning-c-sharp-unity-beginners)
 - Yotube: [Unity Beginner](https://www.youtube.com/results?search_query=unity+begginner+) [Learn C#](https://www.youtube.com/results?search_query=c%23) [Unity FR](https://www.youtube.com/results?search_query=unity+fr)
@@ -88,6 +94,13 @@ https://youtu.be/LcTtWlOoKAs](https://docs.google.com/presentation/d/e/2PACX-1vT
 
 [![thumbnail](https://user-images.githubusercontent.com/20149493/223084781-71bc7925-aab1-4012-ac4c-8b94941600eb.png)](https://youtu.be/LcTtWlOoKAs)  
 [Video (No talk)](https://youtu.be/LcTtWlOoKAs) : https://youtu.be/LcTtWlOoKAs
+
+
+# Note: RTFM & LMGTFY & Chat GPT
+![image](https://user-images.githubusercontent.com/20149493/223086838-1f3c859b-07d7-4f85-b33b-a58ce554f0a5.png)
+![image](https://user-images.githubusercontent.com/20149493/223086924-6db3feed-d03b-474c-8326-411602672f36.png)
+![image](https://user-images.githubusercontent.com/20149493/223087025-0fc8f7fe-617d-4160-859b-aa406625c859.png)
+
 
 
 
