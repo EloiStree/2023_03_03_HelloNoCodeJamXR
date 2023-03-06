@@ -94,8 +94,12 @@ Unity Learn through Unity Hub : [Unity Essential](https://learn.unity.com/tutori
 [![thumbnail](https://user-images.githubusercontent.com/20149493/223084781-71bc7925-aab1-4012-ac4c-8b94941600eb.png)](https://youtu.be/LcTtWlOoKAs)  
 [Video (No talk)](https://youtu.be/LcTtWlOoKAs) : https://youtu.be/LcTtWlOoKAs
 
+## Cool video
+- What is VR : [1](https://www.youtube.com/watch?v=wRCS2-AAyNM) & [2](https://www.youtube.com/watch?v=8rVnkWbLnk8)
+- Painting Jam: https://youtu.be/n6uqpYgrE2E
 
 # Note: RTFM & LMGTFY & Chat GPT
+
 ![image](https://user-images.githubusercontent.com/20149493/223086838-1f3c859b-07d7-4f85-b33b-a58ce554f0a5.png)
 ![image](https://user-images.githubusercontent.com/20149493/223086924-6db3feed-d03b-474c-8326-411602672f36.png)
 ![image](https://user-images.githubusercontent.com/20149493/223087025-0fc8f7fe-617d-4160-859b-aa406625c859.png)
