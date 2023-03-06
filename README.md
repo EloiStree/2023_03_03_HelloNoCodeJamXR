@@ -80,6 +80,9 @@ Where to learn Unity 3D by myself ?
 Unity Learn through Unity Hub : [Unity Essential](https://learn.unity.com/tutorial/welcome-to-unity-essentials)   
 ![image](https://user-images.githubusercontent.com/20149493/223066437-deaf55e5-d250-4554-ac96-79d9a9bec0df.png)  
 
+C# and Unity Certification:
+[Google sheet document with topic to learn](https://docs.google.com/spreadsheets/d/1TI_-X7T4Dh67LKkINNmpfvuofxn3RCUhHVNInaRRUsw/edit?usp=sharing) 
+[![image](https://user-images.githubusercontent.com/20149493/223106895-b2290e6e-4754-49ad-b699-cb5493a41e2b.png)](https://docs.google.com/spreadsheets/d/1TI_-X7T4Dh67LKkINNmpfvuofxn3RCUhHVNInaRRUsw/edit?usp=sharing)
 
 
 
