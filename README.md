@@ -87,8 +87,7 @@ Unity Learn through Unity Hub : [Unity Essential](https://learn.unity.com/tutori
 ## Introduction to VR
 
 [+- 1 hour Slides introduction](https://docs.google.com/presentation/d/e/2PACX-1vT_HmuzmQK3AlM6KNq14JdXQP-SETJ-OsYLxeamX-At5SODFE61qWTvtJ8TOcXzE4MzQPXhtwNekqru/pub?start=false&loop=false&delayms=3000)
-[![image](https://user-images.githubusercontent.com/20149493/223083199-fe6b6c23-1dc5-48ab-a47f-a63a35ede3f8.png)
-https://youtu.be/LcTtWlOoKAs](https://docs.google.com/presentation/d/e/2PACX-1vT_HmuzmQK3AlM6KNq14JdXQP-SETJ-OsYLxeamX-At5SODFE61qWTvtJ8TOcXzE4MzQPXhtwNekqru/pub?start=false&loop=false&delayms=3000)
+[![image](https://user-images.githubusercontent.com/20149493/223083199-fe6b6c23-1dc5-48ab-a47f-a63a35ede3f8.png)](https://docs.google.com/presentation/d/e/2PACX-1vT_HmuzmQK3AlM6KNq14JdXQP-SETJ-OsYLxeamX-At5SODFE61qWTvtJ8TOcXzE4MzQPXhtwNekqru/pub?start=false&loop=false&delayms=3000)
 
 ## Introduction to Unity and OpenXR
 
