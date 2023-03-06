@@ -62,7 +62,7 @@ If the Quest is not detected you can download:
 Also good to download:
  - Steam VR: https://store.steampowered.com/steamvr?l=french
  - ALVR: https://alvr-org.github.io
- - Virtual Desktop: 
+ - Virtual Desktop: https://www.vrdesktop.net (20€)
 
 
 Where to learn Unity 3D by myself ?
