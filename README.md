@@ -2,12 +2,12 @@
 
 This project is a demo of how you can create from A-z a game for Quest 2 without code.  
 
-This project is done under Unity. I am recording all the step to create it to remember what need to be learn and done from  someone that start in XR in 2023.
+This project is done under Unity.
+I am recording all the step to create it to remember what need to be learn and done from someone that start in XR in 2023.
 
 You can download the code here:    
 https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR  
 `git clone https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR.git`
-
 
 Download the last version of the project here:  
 https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/releases  
@@ -18,27 +18,45 @@ https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki
 
 ## Language
 
+FR: La majeur partie des tutorials est en Anglais car mon cerveaux change automatiquement à l'anglais sans m'en rendre compte par défaut.
+Mais comme je vie en Belgique des parties du cours seront en français.
 
-Most of the tutorials is in english because my bain is switching all the time to english by default.
+EN: Most of the tutorials is in english because my bain is switching all the time to english by default.
 But as I live in Belgium some parts will be in French.
 
-La majeur partie des tutorials est en Anglais car mon cerveaux change automatiquement à l'anglais sans m'en rendre compte par défaut.
-Mais comme je vie en Belgique des parties du cours seront en français.
+
+FR: Pourquoi en Anglais ? Il faut comprendre que 95% de la documentation, des tutorials, des interfaces, des personnes avec qui vous allez communiquer sont en anglais.
+Donner le cours en Francais vocalement est nécessaire en classe pour que la matière soit bien comprise. Mais vouloir travailler dans le milieu sans apprendre l'anglais est un grave erreur. Je vous invite fortement à commencer dès maintenant à étudier progressivement l'anglais si vous désirez travailler dans le milieu.
 
 
 
 ## For this workshop you will need to download
-- Unity 2021.3.19f1
-  - https://unity.com/releases/editor/archive at Unity 2021.3.19 in Unity 2021.X
+
+- Unity 2021.3.19f1  
+  - https://unity.com/releases/editor/archive at Unity 2021.3.19 in Unity 2021.X  
+
 [![image](https://user-images.githubusercontent.com/20149493/223064038-af071c06-b5b9-4e1b-bd40-fef4fd792c76.png)]()
 
 
-Blender https://www.blender.org  
-[![image](https://user-images.githubusercontent.com/20149493/223063725-8df5abe5-b449-45fa-a60c-531f57a87b32.png)](https://www.blender.org)
+Blender https://www.blender.org    
+[![image](https://user-images.githubusercontent.com/20149493/223063725-8df5abe5-b449-45fa-a60c-531f57a87b32.png)](https://www.blender.org)  
 
 
-Krita https://krita.org/fr/  
- [![image](https://user-images.githubusercontent.com/20149493/223063593-27ef72f6-0633-4792-bfd8-8d12b1385af0.png)](https://krita.org/fr/)
+Krita https://krita.org/fr/    
+ [![image](https://user-images.githubusercontent.com/20149493/223063593-27ef72f6-0633-4792-bfd8-8d12b1385af0.png)](https://krita.org/fr/)  
+
+
+Oculus Setup from Meta [https://www.meta.com/be/en/quest/setup/](https://www.meta.com/be/en/quest/setup/)
+[![image](https://user-images.githubusercontent.com/20149493/223070474-27cbf38e-0018-4816-b74a-63868d29e40a.png)](https://www.meta.com/be/en/quest/setup/)
+
+
+SideQuest https://sidequestvr.com/setup-howto
+[![image](https://user-images.githubusercontent.com/20149493/223070733-b1ba7f2a-e794-4ca2-be0e-4865e0d4e863.png)](https://sidequestvr.com/setup-howto)
+
+
+If the Quest is not detected you can download:
+- Google USB Driver: https://developer.android.com/studio/run/win-usb
+- Quest ADB driver: https://developer.oculus.com/downloads/package/oculus-adb-drivers/
 
 
 Where to learn Unity 3D by myself ?
