@@ -32,26 +32,29 @@ Donner le cours en Francais vocalement est nécessaire en classe pour que la mat
 
 ## For this workshop you will need to download
 
-- Unity 2021.3.19f1  
+- Unity 2021.3.19f1 (Engine)  
   - https://unity.com/releases/editor/archive at Unity 2021.3.19 in Unity 2021.X  
 
 [![image](https://user-images.githubusercontent.com/20149493/223064038-af071c06-b5b9-4e1b-bd40-fef4fd792c76.png)]()
 
 
-Blender https://www.blender.org    
+Blender(3D) https://www.blender.org     
 [![image](https://user-images.githubusercontent.com/20149493/223063725-8df5abe5-b449-45fa-a60c-531f57a87b32.png)](https://www.blender.org)  
 
 
-Krita https://krita.org/fr/    
+Krita(2D) https://krita.org/fr/    
  [![image](https://user-images.githubusercontent.com/20149493/223063593-27ef72f6-0633-4792-bfd8-8d12b1385af0.png)](https://krita.org/fr/)  
 
 
-Oculus Setup from Meta [https://www.meta.com/be/en/quest/setup/](https://www.meta.com/be/en/quest/setup/)
+Oculus Setup from Meta (VR PC) [https://www.meta.com/be/en/quest/setup/](https://www.meta.com/be/en/quest/setup/)
 [![image](https://user-images.githubusercontent.com/20149493/223070474-27cbf38e-0018-4816-b74a-63868d29e40a.png)](https://www.meta.com/be/en/quest/setup/)
 
 
-SideQuest https://sidequestvr.com/setup-howto
+SideQuest (VR Android) https://sidequestvr.com/setup-howto
 [![image](https://user-images.githubusercontent.com/20149493/223070733-b1ba7f2a-e794-4ca2-be0e-4865e0d4e863.png)](https://sidequestvr.com/setup-howto)
+
+Audacity (Audio) https://www.audacityteam.org  
+[![image](https://user-images.githubusercontent.com/20149493/223726963-864aaf8f-9b03-4d23-8239-e0458aad14d3.png)](https://www.audacityteam.org/download/)  
 
 
 If the Quest is not detected you can download:
