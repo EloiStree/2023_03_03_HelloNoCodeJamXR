@@ -117,4 +117,9 @@ Just a reminder that your best friend is:
 
 
 
+# Cool full tutorial found
+
+- Quick and direct text tutorial on how to setup the Quest for a first scene in Oculus Quest 2
+  - https://dev.to/kauresss/vr-lessons-for-newbies-42a2
+
 
