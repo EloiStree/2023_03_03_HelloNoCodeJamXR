@@ -106,15 +106,30 @@ C# and Unity Certification:
 - What is VR : [1](https://www.youtube.com/watch?v=wRCS2-AAyNM) & [2](https://www.youtube.com/watch?v=8rVnkWbLnk8)
 - Painting Jam: https://youtu.be/n6uqpYgrE2E
 
+
+ VR 1 ?  | VR 2 ?  | Painting Jam  
+---|---|---  
+ [![image](https://user-images.githubusercontent.com/20149493/225070588-5184e434-8ffc-4896-9bcf-35c64c79f666.png)](https://www.youtube.com/watch?v=wRCS2-AAyNM&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo)  | [![image](https://user-images.githubusercontent.com/20149493/225070647-1dd3387e-b85d-4f37-ae27-b2c30cb2d832.png)](https://www.youtube.com/watch?v=8rVnkWbLnk8&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo)  |  [![image](https://user-images.githubusercontent.com/20149493/225071212-4c1f51fc-45c1-48dc-b9a3-b3a7173a4d44.png)](https://www.youtube.com/watch?v=n6uqpYgrE2E&ab_channel=JamsCenter)
+
+
+
+
+
+
+
 # Note: RTFM & LMGTFY & Chat GPT
 
 Just a reminder that your best friend is:
 - RTFM: Read the fucking manual
 - LMGTFY: Let's me google that for you
 - Chat GPT: Asking what you should learn next, take the keyword and do more research
-![image](https://user-images.githubusercontent.com/20149493/223086838-1f3c859b-07d7-4f85-b33b-a58ce554f0a5.png)
-![image](https://user-images.githubusercontent.com/20149493/223086924-6db3feed-d03b-474c-8326-411602672f36.png)
-![image](https://user-images.githubusercontent.com/20149493/223087025-0fc8f7fe-617d-4160-859b-aa406625c859.png)
+
+
+[RTFM ](https://www.google.com/search?client=opera-gx&q=rtfm&sourceid=opera&ie=UTF-8&oe=UTF-8) | [LMGTFY](https://user-images.githubusercontent.com/20149493/223086924-6db3feed-d03b-474c-8326-411602672f36.png)](https://letmegooglethat.com)  | [ChatGPT ](https://www.youtube.com/@Underscore_/search?query=chat) 
+---|---|---  
+[![image](https://user-images.githubusercontent.com/20149493/223086838-1f3c859b-07d7-4f85-b33b-a58ce554f0a5.png)](https://www.google.com/search?client=opera-gx&q=rtfm&sourceid=opera&ie=UTF-8&oe=UTF-8) | 
+[![image](https://user-images.githubusercontent.com/20149493/223086924-6db3feed-d03b-474c-8326-411602672f36.png)](https://letmegooglethat.com) | 
+[![image](https://user-images.githubusercontent.com/20149493/223087025-0fc8f7fe-617d-4160-859b-aa406625c859.png)](https://www.youtube.com/@Underscore_/search?query=chat)  
 
 
 
