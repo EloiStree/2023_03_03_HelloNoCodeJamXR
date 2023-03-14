@@ -120,17 +120,18 @@ C# and Unity Certification:
  [![image](https://user-images.githubusercontent.com/20149493/225070588-5184e434-8ffc-4896-9bcf-35c64c79f666.png)](https://www.youtube.com/watch?v=wRCS2-AAyNM&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo)  | [![image](https://user-images.githubusercontent.com/20149493/225070647-1dd3387e-b85d-4f37-ae27-b2c30cb2d832.png)](https://www.youtube.com/watch?v=8rVnkWbLnk8&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo)  |  [![image](https://user-images.githubusercontent.com/20149493/225071212-4c1f51fc-45c1-48dc-b9a3-b3a7173a4d44.png)](https://www.youtube.com/watch?v=n6uqpYgrE2E&ab_channel=JamsCenter)
 
 
+## Oculus Quest game stores
+
+[Oculus Store](https://www.oculus.com/experiences/quest/?locale=fr_FR) | [Oculus Lab](https://applabgamelist.com/Best) | [SideQuest](https://sidequestvr.com/all-apps)  | [Itchio](https://itch.io/search?q=Oculus+Quest)  
+---|---|---|---
+[![image](https://user-images.githubusercontent.com/20149493/225087533-79794ba0-f53a-4fe1-836f-0f232dfb1d49.png)](https://www.oculus.com/experiences/quest/?locale=fr_FR) | [![image](https://user-images.githubusercontent.com/20149493/225087432-edf84782-c533-4446-9155-3033fe402a5b.png)](https://applabgamelist.com/Best) | [![image](https://user-images.githubusercontent.com/20149493/225087358-a18fc77d-23df-4cc1-932f-4b28a8b78949.png)](https://sidequestvr.com/all-apps) | [![image](https://user-images.githubusercontent.com/20149493/225087189-a936ed96-24f6-42e9-a4da-65a65699c0f3.png)](https://itch.io/search?q=Oculus+Quest)
 
 
 
-# Note: RTFM & LMGTFY & Chat GPT
 
-Just a reminder that your best friend is:
-- RTFM: Read the fucking manual
-- LMGTFY: Let's me google that for you
-- Chat GPT: Asking what you should learn next, take the keyword and do more research
+# RTFM & LMGTFY & Chat GPT
 
-
+Just a reminder that your best friends in the industry are:  
 [RTFM](https://www.google.com/search?client=opera-gx&q=rtfm&sourceid=opera&ie=UTF-8&oe=UTF-8) | [LMGTFY](https://letmegooglethat.com)  | [ChatGPT](https://www.youtube.com/@Underscore_/search?query=chat) 
 ---|---|---  
 [![image](https://user-images.githubusercontent.com/20149493/223086838-1f3c859b-07d7-4f85-b33b-a58ce554f0a5.png)](https://www.google.com/search?client=opera-gx&q=rtfm&sourceid=opera&ie=UTF-8&oe=UTF-8) | [![image](https://user-images.githubusercontent.com/20149493/223086924-6db3feed-d03b-474c-8326-411602672f36.png)](https://letmegooglethat.com) | [![image](https://user-images.githubusercontent.com/20149493/223087025-0fc8f7fe-617d-4160-859b-aa406625c859.png)](https://www.youtube.com/@Underscore_/search?query=chat)   
