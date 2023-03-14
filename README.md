@@ -38,34 +38,35 @@ Donner le cours en Francais vocalement est nécessaire en classe pour que la mat
 [![image](https://user-images.githubusercontent.com/20149493/223064038-af071c06-b5b9-4e1b-bd40-fef4fd792c76.png)]()
 
 
-Blender(3D) https://www.blender.org     
+Blender(3D) https://www.blender.org   (If you do/manipulate 3D)
 [![image](https://user-images.githubusercontent.com/20149493/223063725-8df5abe5-b449-45fa-a60c-531f57a87b32.png)](https://www.blender.org)  
 
 
-Krita(2D) https://krita.org/fr/    
+Krita(2D) https://krita.org/fr/     (If you do/manipulate 2D)
  [![image](https://user-images.githubusercontent.com/20149493/223063593-27ef72f6-0633-4792-bfd8-8d12b1385af0.png)](https://krita.org/fr/)  
 
 
-Oculus Setup from Meta (VR PC) [https://www.meta.com/be/en/quest/setup/](https://www.meta.com/be/en/quest/setup/)
+Oculus Setup from Meta (VR PC) [https://www.meta.com/be/en/quest/setup/](https://www.meta.com/be/en/quest/setup/)  (If you run VR on your PC)
 [![image](https://user-images.githubusercontent.com/20149493/223070474-27cbf38e-0018-4816-b74a-63868d29e40a.png)](https://www.meta.com/be/en/quest/setup/)
 
 
-SideQuest (VR Android) https://sidequestvr.com/setup-howto
+SideQuest (VR Android) https://sidequestvr.com/setup-howto  (If you want to install app on the Quest)
 [![image](https://user-images.githubusercontent.com/20149493/223070733-b1ba7f2a-e794-4ca2-be0e-4865e0d4e863.png)](https://sidequestvr.com/setup-howto)
 
-Audacity (Audio) https://www.audacityteam.org  
+Audacity (Audio) https://www.audacityteam.org    (If you insert sound in you application)
 [![image](https://user-images.githubusercontent.com/20149493/223726963-864aaf8f-9b03-4d23-8239-e0458aad14d3.png)](https://www.audacityteam.org/download/)  
 
 
-If the Quest is not detected you can download:
+You need thoes driver if you want your phone or Quest to be well detected by Window:
 - Google USB Driver: https://developer.android.com/studio/run/win-usb
 - Quest ADB driver: https://developer.oculus.com/downloads/package/oculus-adb-drivers/
 
 
 Also good to download:
- - Steam VR: https://store.steampowered.com/steamvr?l=french
- - ALVR: https://alvr-org.github.io
- - Virtual Desktop: https://www.vrdesktop.net (20€)
+ - Steam VR: https://store.steampowered.com/steamvr?l=french  (To play at VR game not on Oculus Setup)
+ - ALVR: https://alvr-org.github.io  (To stream your SteamVR game by wifi on the Quest)
+ - Virtual Desktop: https://www.vrdesktop.net (20€) (to Stream your Steam VR game by WiFi with no-geek interface)
+ - Developer Oculus Hub: https://developer.oculus.com/downloads/package/oculus-developer-hub-win/ (If you need debugging tool for VR)
 
 
 Where to learn Unity 3D by myself ?
