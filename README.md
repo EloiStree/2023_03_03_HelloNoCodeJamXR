@@ -22,6 +22,11 @@ https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues
 
 Will be add soon
 
+### Pecha Kucha 20x20
+What is VR ? | Introduction to Unity ?
+---|---
+🚧 | 🚧
+
 ## Language
 
 FR: La majeur partie des tutorials est en Anglais car mon cerveaux change automatiquement à l'anglais sans m'en rendre compte par défaut.
