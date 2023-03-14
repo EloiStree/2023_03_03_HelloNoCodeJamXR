@@ -10,10 +10,13 @@ https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR
 `git clone https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR.git`
 
 Download the last version of the project here for Quest 2:  
-https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/releases  
+https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/releases   
    
 Read the wiki to follow the workshop:  
-https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki  
+https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki   
+
+Ask any questions on the workshop:  
+https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues  
 
 ##  🚧 Video introduction 🚧
 
