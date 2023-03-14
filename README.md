@@ -15,6 +15,9 @@ https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/releases
 Read the wiki with redirection and information here:  
 https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki  
 
+##  🚧 Video introduction 🚧
+
+Will be add soon
 
 ## Language
 
