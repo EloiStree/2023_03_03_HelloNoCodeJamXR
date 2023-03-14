@@ -125,11 +125,9 @@ Just a reminder that your best friend is:
 - Chat GPT: Asking what you should learn next, take the keyword and do more research
 
 
-[RTFM ](https://www.google.com/search?client=opera-gx&q=rtfm&sourceid=opera&ie=UTF-8&oe=UTF-8) | [LMGTFY](https://user-images.githubusercontent.com/20149493/223086924-6db3feed-d03b-474c-8326-411602672f36.png)](https://letmegooglethat.com)  | [ChatGPT ](https://www.youtube.com/@Underscore_/search?query=chat) 
+[RTFM ](https://www.google.com/search?client=opera-gx&q=rtfm&sourceid=opera&ie=UTF-8&oe=UTF-8) |[[LMGTFY](https://user-images.githubusercontent.com/20149493/223086924-6db3feed-d03b-474c-8326-411602672f36.png)](https://letmegooglethat.com)  | [ChatGPT ](https://www.youtube.com/@Underscore_/search?query=chat) 
 ---|---|---  
-[![image](https://user-images.githubusercontent.com/20149493/223086838-1f3c859b-07d7-4f85-b33b-a58ce554f0a5.png)](https://www.google.com/search?client=opera-gx&q=rtfm&sourceid=opera&ie=UTF-8&oe=UTF-8) | 
-[![image](https://user-images.githubusercontent.com/20149493/223086924-6db3feed-d03b-474c-8326-411602672f36.png)](https://letmegooglethat.com) | 
-[![image](https://user-images.githubusercontent.com/20149493/223087025-0fc8f7fe-617d-4160-859b-aa406625c859.png)](https://www.youtube.com/@Underscore_/search?query=chat)  
+[![image](https://user-images.githubusercontent.com/20149493/223086838-1f3c859b-07d7-4f85-b33b-a58ce554f0a5.png)](https://www.google.com/search?client=opera-gx&q=rtfm&sourceid=opera&ie=UTF-8&oe=UTF-8) | [![image](https://user-images.githubusercontent.com/20149493/223086924-6db3feed-d03b-474c-8326-411602672f36.png)](https://letmegooglethat.com) | [![image](https://user-images.githubusercontent.com/20149493/223087025-0fc8f7fe-617d-4160-859b-aa406625c859.png)](https://www.youtube.com/@Underscore_/search?query=chat)  
 
 
 
