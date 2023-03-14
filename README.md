@@ -9,10 +9,10 @@ You can download the code here:
 https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR  
 `git clone https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR.git`
 
-Download the last version of the project here:  
+Download the last version of the project here for Quest 2:  
 https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/releases  
    
-Read the wiki with redirection and information here:  
+Read the wiki to follow the workshop:  
 https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki  
 
 ##  🚧 Video introduction 🚧
