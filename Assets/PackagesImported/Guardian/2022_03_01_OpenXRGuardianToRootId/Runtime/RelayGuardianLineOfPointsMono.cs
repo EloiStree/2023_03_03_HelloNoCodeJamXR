@@ -7,8 +7,13 @@ public class RelayGuardianLineOfPointsMono : MonoBehaviour
 {
     public RelayGuardianLineOfPointsEvent m_onPointsToRelay;
 
-    public void PushPointsToRelay(Vector3 [] points) {
+    public void PushPointsToRelay(Vector3[] points)
+    {
         m_onPointsToRelay.Invoke(points);
+    }
+    public void PushEmptyArrayofPointsToRelay()
+    {
+        m_onPointsToRelay.Invoke(new Vector3[] { });
     }
 
 }

@@ -1,7 +1,9 @@
 {
     "name": "be.eloistree.unityprefsthemall",
-    "references": [],
-    "optionalUnityReferences": [],
+    "rootNamespace": "",
+    "references": [
+        "be.eloistree.generaltoolbox"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -9,5 +11,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }

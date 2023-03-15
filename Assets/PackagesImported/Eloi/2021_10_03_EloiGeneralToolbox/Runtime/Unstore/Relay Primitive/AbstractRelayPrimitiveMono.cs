@@ -10,17 +10,25 @@ namespace Eloi {
 
 public abstract class AbstractRelayPrimitiveMono<T> : MonoBehaviour
     {
+        public T m_givenValue;
         public AbstractDirectRelayPrimitive<T> m_directRelay;
         public AbstractOnChangedRelayPrimitive<T> m_onChangedRelay;
 
+
+        public  virtual void RepushLastGivenValue()
+        {
+            Push(m_givenValue);
+        }
         public void Push(T value)
         {
+            m_givenValue = value;
             m_directRelay.PushInRef(in value);
             m_onChangedRelay.PushInRef(in value);
             NotifyChildren(in value);
         }
         public void PushInRef(in T value)
         {
+            m_givenValue = value;
             m_directRelay.PushInRef(in value);
             m_onChangedRelay.PushInRef(in value);
             NotifyChildren(in value);

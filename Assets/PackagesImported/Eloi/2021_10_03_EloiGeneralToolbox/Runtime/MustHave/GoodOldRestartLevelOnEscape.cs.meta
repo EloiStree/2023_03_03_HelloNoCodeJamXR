@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Runtime/MustHave/GoodOldRestartLevelOnEscape.cs.meta
+guid: f61ad24568bd60b4f8f5fa77950bfc54
+========
+guid: 64241af5b94b4a9488d9c4c268dde93b
+>>>>>>>> a073ac65e11d5bfd4754ce506f248475e64a8471:Runtime/Unstore/RandomContinusTick.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

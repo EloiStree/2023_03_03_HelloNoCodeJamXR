@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using static PechaKuchaLogicMono;
 
 public class PechaKuchaLogicMono : MonoBehaviour
 {
@@ -41,6 +42,16 @@ public class PechaKuchaLogicMono : MonoBehaviour
     [System.Serializable]
     public class Slide {
         public Texture2D m_slide;
+    }
+
+
+    public void SetSlideWithTexture(Texture2D[] textures) {
+
+        m_20x20_Slide = new Slide[textures.Length];
+        for (int i = 0; i < m_20x20_Slide.Length; i++)
+        {
+            m_20x20_Slide[i] = new Slide() { m_slide = textures[i] };
+        }
     }
 
     void Start()

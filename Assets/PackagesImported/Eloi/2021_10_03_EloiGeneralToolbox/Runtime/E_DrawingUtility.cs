@@ -7,6 +7,7 @@ namespace Eloi
 {
     public class E_DrawingUtility
     {
+
         public static Color fowardColor= Color.blue;
         public static Color rightColor = Color.red;
         public static Color upColor = Color.green;

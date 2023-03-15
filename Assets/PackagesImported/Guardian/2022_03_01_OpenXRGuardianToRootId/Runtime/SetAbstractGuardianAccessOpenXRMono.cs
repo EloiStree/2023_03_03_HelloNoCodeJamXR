@@ -23,7 +23,9 @@ public class SetAbstractGuardianAccessOpenXRMono : MonoBehaviour
         }
         var inputSubsystem = loader.GetLoadedSubsystem<XRInputSubsystem>();
         inputSubsystem.boundaryChanged += InputSubsystem_boundaryChanged;
-        if (m_pushPreviousAtStart) PushCurrentBoundary();
+        if (m_pushPreviousAtStart)
+            PushCurrentBoundary();
+
     }
 
     [ContextMenu("Push Current Guardian")]

@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 328662398436383215}
-  - component: {fileID: 328662398436383184}
+  - component: {fileID: 1894309621211750760}
   m_Layer: 0
   m_Name: InvariantCulture
   m_TagString: Untagged
@@ -27,11 +27,12 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 7.246326, y: 0.04817772, z: -8.668234}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &328662398436383184
+--- !u!114 &1894309621211750760
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -40,6 +41,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 328662398436383185}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7f0a1f7e076217547876a763743cb24f, type: 3}
+  m_Script: {fileID: 11500000, guid: fc9d297e638950243b766c04b4131040, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

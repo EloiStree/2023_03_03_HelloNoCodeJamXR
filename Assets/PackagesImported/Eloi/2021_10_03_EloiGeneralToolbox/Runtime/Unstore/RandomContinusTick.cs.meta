@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Runtime/MustHave/GoodOldRestartLevelOnEscape.cs.meta
+guid: a3b5ff2d4bd76764491f4b15af654b29
+========
 guid: 64241af5b94b4a9488d9c4c268dde93b
+>>>>>>>> a073ac65e11d5bfd4754ce506f248475e64a8471:Runtime/Unstore/RandomContinusTick.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

@@ -66,5 +66,24 @@ namespace Eloi
             return new string(chars);
         }
         #endregion
+
+        public static void Base64EncodeUsingUTF8FileSafe(in string plainText, out string base64EncodedData)
+        {
+            var plainTextBytes = System.Text.Encoding.UTF8.GetBytes(plainText);
+            base64EncodedData = System.Convert.ToBase64String(plainTextBytes);
+            base64EncodedData= base64EncodedData.Replace("/", "_");
+            base64EncodedData= base64EncodedData.Replace("+", "-");
+        }
+        public static void Base64DecodeUTF8FileSafe(in string base64EncodedData, out string plainText)
+        {
+            string t = base64EncodedData.Replace( "_","/");
+            t = t.Replace("-","+" );
+            var base64EncodedBytes = System.Convert.FromBase64String(t);
+            plainText = System.Text.Encoding.UTF8.GetString(base64EncodedBytes);
+
+        }
+
+
     }
+
 }
