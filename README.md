@@ -4,6 +4,13 @@
 
 > ⚠️ This Git Repository is improvised for the event. It is not complet and is just here to help as much as I can in the given time 😉 ⚠️  
 
+
+Video avec Mohamed FR tutorial 📹:     
+[![image](https://user-images.githubusercontent.com/20149493/225709770-85bffbbf-74d9-4e57-8f2c-9cc05bbb35be.png)](https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo)
+[Go to Youtube PlayList](https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo) - [Link to video of the project](https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki/Video)   
+
+
+
 # Hello No Code Jam XR
 
 This project is a demo of how you can create from A-z a game for Quest 2 without code.  
@@ -49,7 +56,7 @@ Donner le cours en Francais vocalement est nécessaire en classe pour que la mat
 
 ## For this workshop you will need to download
 
-- Unity 2021.3.19f1 (Engine)  
+- Unity 2021.3.21f1 (Engine)  
   - https://unity.com/releases/editor/archive at Unity 2021.3.19 in Unity 2021.X  
 
 [![image](https://user-images.githubusercontent.com/20149493/223064038-af071c06-b5b9-4e1b-bd40-fef4fd792c76.png)]()
@@ -149,5 +156,13 @@ Just a reminder that your best friends in the industry are:
 
 - Quick and direct text tutorial on how to setup the Quest for a first scene in Oculus Quest 2
   - https://dev.to/kauresss/vr-lessons-for-newbies-42a2
+
+
+## Other linked Gits
+
+- https://github.com/EloiStree/2023_03_05_RoomCalibrationResearch
+  - This git is an attempt of calibrating a room based on a triangulation of three points in OpenXR
+- https://github.com/EloiStree/2023_03_16_HowToImportAssetsInUnity
+  - This git is a fork with assets created or imported from outside of Unity as demo.
 
 
