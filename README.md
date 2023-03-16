@@ -7,9 +7,7 @@
 
 Video avec Mohamed FR tutorial 📹:  
 https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki/Video  
-- Part 1: https://youtu.be/16VoZuS4iHA
-- Part 2: Incoming
-- Part 3:  Incoming
+
 
 # Hello No Code Jam XR
 
