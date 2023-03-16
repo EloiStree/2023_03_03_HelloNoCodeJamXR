@@ -158,3 +158,11 @@ Just a reminder that your best friends in the industry are:
   - https://dev.to/kauresss/vr-lessons-for-newbies-42a2
 
 
+## Other linked Gits
+
+- https://github.com/EloiStree/2023_03_05_RoomCalibrationResearch
+  - This git is an attempt of calibrating a room based on a triangulation of three points in OpenXR
+- https://github.com/EloiStree/2023_03_16_HowToImportAssetsInUnity
+  - This git is a fork with assets created or imported from outside of Unity as demo.
+
+
