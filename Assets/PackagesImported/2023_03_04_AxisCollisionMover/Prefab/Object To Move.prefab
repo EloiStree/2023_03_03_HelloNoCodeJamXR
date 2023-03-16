@@ -201,6 +201,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8926232847325724040}
+  - component: {fileID: 2709758358511315876}
   m_Layer: 0
   m_Name: Object To Move
   m_TagString: Untagged
@@ -224,6 +225,40 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2709758358511315876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8926232847325724043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4b5eff5a6a3eef48a64adb69e36ce6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_onDisplayRequest:
+    m_valueEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 8926232847693626929}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    m_onEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    m_offEvent:
+      m_PersistentCalls:
+        m_Calls: []
 --- !u!1 &8926232847465668894
 GameObject:
   m_ObjectHideFlags: 0

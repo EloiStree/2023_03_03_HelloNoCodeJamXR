@@ -116,7 +116,6 @@ public class PrefsContextTransform : AbstractStringContextToPlayerPref
         }
         m_saved = save;
         infoToStore = JsonUtility.ToJson(save, true);
-        Debug.Log("Recovered info as  json:" + infoToStore);
     }
 
     public override void SetWithStoredInfoFromString(string recoveredInfo)
@@ -125,16 +124,13 @@ public class PrefsContextTransform : AbstractStringContextToPlayerPref
         if (saved == null)
         {
 
-            E_BeepUtility.CreateOscillatorForDuration(0.1f, 400);
-            Debug.Log("Fail to load json");
+          
             
             return;
 
         }
         else {
 
-            E_BeepUtility.CreateOscillatorForDuration(2, 400);
-            Debug.Log("Succeed to load json:"+ recoveredInfo);
         }
         m_saved = saved;
         if (m_worldSpaceUse == Space.World)
