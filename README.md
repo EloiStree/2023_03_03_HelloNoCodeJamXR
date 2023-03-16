@@ -6,8 +6,7 @@
 
 
 Video avec Mohamed FR tutorial 📹:     
-[![image](https://user-images.githubusercontent.com/20149493/225709770-85bffbbf-74d9-4e57-8f2c-9cc05bbb35be.png)](
-PlayList: https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo)
+[![image](https://user-images.githubusercontent.com/20149493/225709770-85bffbbf-74d9-4e57-8f2c-9cc05bbb35be.png)](https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo)
 PlayList: https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo  
 Link to video of the project: https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki/Video   
 
