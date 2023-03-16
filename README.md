@@ -1,3 +1,9 @@
+> ⚠️ This workshop is under construction ⚠️  
+
+> ⚠️ Learn Unity to work in the industry take weeks, months, years of learning and experimenting 😅 (depending of your objectives). The purpose of this wiki is just to gave a taste of what is XR and Unity. Feel if you want to works with it as a hobby or a job. ⚠️  
+
+> ⚠️ This Git Repository is improvised for the event. It is not complet and is just here to help as much as I can in the given time 😉 ⚠️  
+
 # Hello No Code Jam XR
 
 This project is a demo of how you can create from A-z a game for Quest 2 without code.  
