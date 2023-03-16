@@ -4,6 +4,11 @@
 
 > ⚠️ This Git Repository is improvised for the event. It is not complet and is just here to help as much as I can in the given time 😉 ⚠️  
 
+
+Video avec Mohamed FR tutorial:  
+https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki/Video  
+
+
 # Hello No Code Jam XR
 
 This project is a demo of how you can create from A-z a game for Quest 2 without code.  
