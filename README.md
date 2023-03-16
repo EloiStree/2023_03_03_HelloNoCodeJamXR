@@ -5,7 +5,7 @@
 > ⚠️ This Git Repository is improvised for the event. It is not complet and is just here to help as much as I can in the given time 😉 ⚠️  
 
 
-Video avec Mohamed FR tutorial:  
+Video avec Mohamed FR tutorial 📹:  
 https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki/Video  
 
 
