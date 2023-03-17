@@ -40,6 +40,8 @@ What is VR ? | Introduction to Unity ?
 ---|---
 🚧 | 🚧
 
+
+
 ## Language
 
 FR: La majeur partie des tutorials est en Anglais car mon cerveaux change automatiquement à l'anglais sans m'en rendre compte par défaut.
@@ -164,5 +166,16 @@ Just a reminder that your best friends in the industry are:
   - This git is an attempt of calibrating a room based on a triangulation of three points in OpenXR
 - https://github.com/EloiStree/2023_03_16_HowToImportAssetsInUnity
   - This git is a fork with assets created or imported from outside of Unity as demo.
+
+
+## App installed by default on the Quest 
+
+### Google Slide Intern
+
+- mathias.nassar , Hand: https://docs.google.com/presentation/d/1PegtfR9P9JjvpICLB3U2YxrpvLgQw1q1n9YfYqyPSkY/edit?usp=drivesdk
+- chergui sami , Passthrough: https://docs.google.com/presentation/d/1rbmaX39ZwzcWvn5hm7l3pibpewQ1tVHxMidR6CqAZkM/edit?usp=drivesdk
+- name, VR Chat:
+- ryan faray, Drawing: https://docs.google.com/presentation/d/1koagoFA6eHDga1DKILzPzgQp4kQZ5z-i/edit#slide=id.p1
+ 
 
 
