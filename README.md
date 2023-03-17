@@ -4,6 +4,9 @@
 
 > ⚠️ This Git Repository is improvised for the event. It is not complet and is just here to help as much as I can in the given time 😉 ⚠️  
 
+See [FAQ =>](https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues?q=is%3Aissue+is%3Aopen+label%3AFAQ)
+See [List of Question =>](https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion)
+
 
 Video avec Mohamed FR tutorial 📹:     
 [![image](https://user-images.githubusercontent.com/20149493/225709770-85bffbbf-74d9-4e57-8f2c-9cc05bbb35be.png)](https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo)
@@ -182,7 +185,8 @@ Just a reminder that your best friends in the industry are:
 
 - Mathias Nassar , Hand: https://docs.google.com/presentation/d/1PegtfR9P9JjvpICLB3U2YxrpvLgQw1q1n9YfYqyPSkY/edit?usp=drivesdk
 - Chergui Sami , Passthrough: https://docs.google.com/presentation/d/1rbmaX39ZwzcWvn5hm7l3pibpewQ1tVHxMidR6CqAZkM/edit?usp=drivesdk
-- ryan faray, Drawing: https://docs.google.com/presentation/d/1koagoFA6eHDga1DKILzPzgQp4kQZ5z-i/edit#slide=id.p1
+- Ryan Faray, Drawing: https://docs.google.com/presentation/d/1koagoFA6eHDga1DKILzPzgQp4kQZ5z-i/edit#slide=id.p1
+- Sofiane Jnaoui , VR Chat: https://docs.google.com/presentation/d/1NjZyiuG7OEQWkYQRmCDSEMA8ix4ODB2ORgB7SCqXhD4/edit#slide=id.p
  
 
 
