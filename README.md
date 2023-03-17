@@ -42,7 +42,8 @@ What is VR ? | Introduction to Unity ?
 
 Workshop Team | Keep it simple
 ---|---
-[🚧![image](https://user-images.githubusercontent.com/20149493/225877534-1b3af1af-2d04-4452-8a59-e6314d352437.png)](https://docs.google.com/presentation/d/1s_KRmMlCRhh2jCjAaMPx4_V3OwwhOp6oBGZmSDsBd5w/edit?usp=sharing) | [🚧 ![image](https://user-images.githubusercontent.com/20149493/225877582-b554e8ab-b7a2-4373-8897-8f5014f6bef1.png)](https://docs.google.com/presentation/d/1Duy_v9_itLrkzBXzjcmTl1TsOcNzDxfg6l9SB9CewHo/edit?usp=sharing)
+[🚧![image](https://user-images.githubusercontent.com/20149493/225877534-1b3af1af-2d04-4452-8a59-e6314d352437.png)](https://docs.google.com/presentation/d/1s_KRmMlCRhh2jCjAaMPx4_V3OwwhOp6oBGZmSDsBd5w/edit?usp=sharing) | [🚧 ![image](https://user-images.githubusercontent.com/20149493/225883088-3f135ddd-f3ec-4e57-8ff2-1932fd3312ee.png)
+](https://docs.google.com/presentation/d/1Duy_v9_itLrkzBXzjcmTl1TsOcNzDxfg6l9SB9CewHo/edit?usp=sharing)
 
 
 ## Language
