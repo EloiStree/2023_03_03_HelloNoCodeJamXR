@@ -172,9 +172,8 @@ Just a reminder that your best friends in the industry are:
 
 ### Google Slide Intern
 
-- mathias.nassar , Hand: https://docs.google.com/presentation/d/1PegtfR9P9JjvpICLB3U2YxrpvLgQw1q1n9YfYqyPSkY/edit?usp=drivesdk
-- chergui sami , Passthrough: https://docs.google.com/presentation/d/1rbmaX39ZwzcWvn5hm7l3pibpewQ1tVHxMidR6CqAZkM/edit?usp=drivesdk
-- name, VR Chat:
+- Mathias Nassar , Hand: https://docs.google.com/presentation/d/1PegtfR9P9JjvpICLB3U2YxrpvLgQw1q1n9YfYqyPSkY/edit?usp=drivesdk
+- Chergui Sami , Passthrough: https://docs.google.com/presentation/d/1rbmaX39ZwzcWvn5hm7l3pibpewQ1tVHxMidR6CqAZkM/edit?usp=drivesdk
 - ryan faray, Drawing: https://docs.google.com/presentation/d/1koagoFA6eHDga1DKILzPzgQp4kQZ5z-i/edit#slide=id.p1
  
 
