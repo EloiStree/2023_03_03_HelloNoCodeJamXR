@@ -36,14 +36,10 @@ https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues
 Will be add soon
 
 ### Pecha Kucha 20x20
-What is VR ? | Introduction to Unity ?
----|---
-🚧 | 🚧
 
 Workshop Team | Keep it simple
 ---|---
-[🚧![image](https://user-images.githubusercontent.com/20149493/225898164-9b855cf4-9426-49be-85dd-976edcc40b6f.png)
-](https://docs.google.com/presentation/d/1s_KRmMlCRhh2jCjAaMPx4_V3OwwhOp6oBGZmSDsBd5w/edit?usp=sharing) | [🚧![image](https://user-images.githubusercontent.com/20149493/225883088-3f135ddd-f3ec-4e57-8ff2-1932fd3312ee.png)](https://docs.google.com/presentation/d/1Duy_v9_itLrkzBXzjcmTl1TsOcNzDxfg6l9SB9CewHo/edit?usp=sharing)
+[![image](https://user-images.githubusercontent.com/20149493/225898164-9b855cf4-9426-49be-85dd-976edcc40b6f.png)](https://docs.google.com/presentation/d/1s_KRmMlCRhh2jCjAaMPx4_V3OwwhOp6oBGZmSDsBd5w/edit?usp=sharing) | [![image](https://user-images.githubusercontent.com/20149493/225883088-3f135ddd-f3ec-4e57-8ff2-1932fd3312ee.png)](https://docs.google.com/presentation/d/1Duy_v9_itLrkzBXzjcmTl1TsOcNzDxfg6l9SB9CewHo/edit?usp=sharing)  
 
 
 ## Language
