@@ -62,7 +62,8 @@ Donner le cours en Francais vocalement est nécessaire en classe pour que la mat
 ## For this workshop you will need to download
 
 - Unity 2021.3.21f1 (Engine)  
-  - https://unity.com/releases/editor/archive at Unity 2021.3.19 in Unity 2021.X  
+  - https://unity.com/fr/download
+  - (https://unity.com/releases/editor/archive at Unity 2021.3.19 in Unity 2021.X ) 
 
 [![image](https://user-images.githubusercontent.com/20149493/223064038-af071c06-b5b9-4e1b-bd40-fef4fd792c76.png)]()
 
