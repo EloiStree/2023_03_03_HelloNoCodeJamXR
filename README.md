@@ -17,6 +17,9 @@ How to code C# in unity and how to learn from ChatGPT
 - https://www.youtube.com/watch?v=fw4JoB9bUTA&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo
   - https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR_LiveCodeHackathon
 
+
+Shared code during demo:
+https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR_LiveCodeHackathon
 ----------------------------
 
 Video avec Mohamed FR tutorial 📹:     
