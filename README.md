@@ -14,17 +14,20 @@ See [List of Question =>](https://github.com/EloiStree/2023_03_03_HelloNoCodeJam
 
 How to create unity application with Spider that follow the player.
 How to code C# in unity and how to learn from ChatGPT
-- https://www.youtube.com/watch?v=fw4JoB9bUTA&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo
-  - https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR_LiveCodeHackathon
+
 
 
 Shared code during demo:
 https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR_LiveCodeHackathon
 
 Video quick and dirty push live workshop:
+- Spider and follow https://www.youtube.com/watch?v=fw4JoB9bUTA&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo
+  - https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR_LiveCodeHackathon
 - How to import 3D assets from web : https://youtu.be/1SVNKLKYy20
   - Link to websites to download: https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues/7#issue-1630235991
 - How to create QTE for gun with input system: https://youtu.be/oehcYHrCtDE
+
+- Trigger event collision: https://youtu.be/_75NvDyEebw
 
 ----------------------------
 
