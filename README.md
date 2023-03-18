@@ -10,7 +10,6 @@ See [List of Question =>](https://github.com/EloiStree/2023_03_03_HelloNoCodeJam
 
 # Produce during Hackathon
 
-## Crise Cardiac
 
 How to create unity application with Spider that follow the player.
 How to code C# in unity and how to learn from ChatGPT
