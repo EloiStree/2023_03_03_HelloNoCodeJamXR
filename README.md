@@ -20,6 +20,11 @@ How to code C# in unity and how to learn from ChatGPT
 
 Shared code during demo:
 https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR_LiveCodeHackathon
+
+Video quick and dirty push:
+- How to import 3D assets from web : https://youtu.be/1SVNKLKYy20
+- How to create QTE for gun with input system: https://youtu.be/oehcYHrCtDE
+
 ----------------------------
 
 Video avec Mohamed FR tutorial 📹:     
