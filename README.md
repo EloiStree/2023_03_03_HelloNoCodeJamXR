@@ -8,6 +8,17 @@ See [FAQ =>](https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues?q=i
 See [List of Question =>](https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion)
 
 
+# Produce during Hackathon
+
+## Crise Cardiac
+
+How to create unity application with Spider that follow the player.
+How to code C# in unity and how to learn from ChatGPT
+- https://www.youtube.com/watch?v=fw4JoB9bUTA&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo
+  - https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR_LiveCodeHackathon
+
+----------------------------
+
 Video avec Mohamed FR tutorial 📹:     
 [![image](https://user-images.githubusercontent.com/20149493/225709770-85bffbbf-74d9-4e57-8f2c-9cc05bbb35be.png)](https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo)
 [Go to Youtube PlayList](https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo) - [Link to video of the project](https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki/Video)   
