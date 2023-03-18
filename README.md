@@ -23,6 +23,7 @@ https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR_LiveCodeHackathon
 
 Video quick and dirty push live workshop:
 - How to import 3D assets from web : https://youtu.be/1SVNKLKYy20
+  - Link to websites to download: https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues/7#issue-1630235991
 - How to create QTE for gun with input system: https://youtu.be/oehcYHrCtDE
 
 ----------------------------
