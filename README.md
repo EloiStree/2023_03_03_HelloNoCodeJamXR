@@ -132,6 +132,7 @@ Don't know how to setup a Quest in Unity ?
   - Videos: [https://youtu.be/SJANudr3Wu0](https://www.youtube.com/@dilmerv/search?query=passthrough)
 - For classic: 
   - Oculus version: https://www.youtube.com/watch?v=YwFXQeBmxZ4&ab_channel=DilmerValecillos
+  - Open XR read input of controller ( NICE :) ) https://youtu.be/Af5L6KsBSQo
 
 Unity Learn through Unity Hub : [Unity Essential](https://learn.unity.com/tutorial/welcome-to-unity-essentials)   
 ![image](https://user-images.githubusercontent.com/20149493/223066437-deaf55e5-d250-4554-ac96-79d9a9bec0df.png)  
