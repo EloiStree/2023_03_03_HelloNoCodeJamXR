@@ -4,6 +4,31 @@
 
 > ⚠️ This Git Repository is improvised for the event. It is not complet and is just here to help as much as I can in the given time 😉 ⚠️  
 
+See [FAQ =>](https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues?q=is%3Aissue+is%3Aopen+label%3AFAQ)
+See [List of Question =>](https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion)
+
+
+# Produce during Hackathon
+
+
+How to create unity application with Spider that follow the player.
+How to code C# in unity and how to learn from ChatGPT
+
+
+
+Shared code during demo:
+https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR_LiveCodeHackathon
+
+Video quick and dirty push live workshop:
+- Spider and follow https://www.youtube.com/watch?v=fw4JoB9bUTA&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo
+  - https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR_LiveCodeHackathon
+- How to import 3D assets from web : https://youtu.be/1SVNKLKYy20
+  - Link to websites to download: https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues/7#issue-1630235991
+- How to create QTE for gun with input system: https://youtu.be/oehcYHrCtDE
+
+- Trigger event collision: https://youtu.be/_75NvDyEebw
+
+----------------------------
 
 Video avec Mohamed FR tutorial 📹:     
 [![image](https://user-images.githubusercontent.com/20149493/225709770-85bffbbf-74d9-4e57-8f2c-9cc05bbb35be.png)](https://www.youtube.com/watch?v=16VoZuS4iHA&list=PLjoWUDFutpQlFwyefbOWuOYNxzXn23XM2&ab_channel=ÉloiStrée%2Cꬲ🧰%3ARawvideo)
@@ -36,9 +61,11 @@ https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/issues
 Will be add soon
 
 ### Pecha Kucha 20x20
-What is VR ? | Introduction to Unity ?
+
+Workshop Team | Keep it simple
 ---|---
-🚧 | 🚧
+[![image](https://user-images.githubusercontent.com/20149493/225898164-9b855cf4-9426-49be-85dd-976edcc40b6f.png)](https://docs.google.com/presentation/d/1s_KRmMlCRhh2jCjAaMPx4_V3OwwhOp6oBGZmSDsBd5w/edit?usp=sharing) | [![image](https://user-images.githubusercontent.com/20149493/225883088-3f135ddd-f3ec-4e57-8ff2-1932fd3312ee.png)](https://docs.google.com/presentation/d/1Duy_v9_itLrkzBXzjcmTl1TsOcNzDxfg6l9SB9CewHo/edit?usp=sharing)  
+
 
 ## Language
 
@@ -57,7 +84,8 @@ Donner le cours en Francais vocalement est nécessaire en classe pour que la mat
 ## For this workshop you will need to download
 
 - Unity 2021.3.21f1 (Engine)  
-  - https://unity.com/releases/editor/archive at Unity 2021.3.19 in Unity 2021.X  
+  - https://unity.com/fr/download
+  - (https://unity.com/releases/editor/archive at Unity 2021.3.19 in Unity 2021.X ) 
 
 [![image](https://user-images.githubusercontent.com/20149493/223064038-af071c06-b5b9-4e1b-bd40-fef4fd792c76.png)]()
 
@@ -104,6 +132,15 @@ Where to learn Unity 3D by myself ?
     - https://www.youtube.com/@Acegikmo Advance and technicial but quiete and precise
 - Udemy: [Unity](https://www.udemy.com/courses/search/?src=ukw&q=unity) - [C#](https://www.udemy.com/courses/search/?src=ukw&q=c%23)  
 - Eloi Previous workshop: https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR/wiki/PreviousWorkshopFR
+
+Don't know how to setup a Quest in Unity ?
+[![image](https://user-images.githubusercontent.com/20149493/225872452-1fdfa8f6-379a-4bf2-9034-bac82afdd39e.png)](https://www.youtube.com/@dilmerv)
+- For Passthrough: 
+  - Main:  https://youtu.be/SJANudr3Wu0
+  - Videos: [https://youtu.be/SJANudr3Wu0](https://www.youtube.com/@dilmerv/search?query=passthrough)
+- For classic: 
+  - Oculus version: https://www.youtube.com/watch?v=YwFXQeBmxZ4&ab_channel=DilmerValecillos
+  - Open XR read input of controller ( NICE :) ) https://youtu.be/Af5L6KsBSQo
 
 Unity Learn through Unity Hub : [Unity Essential](https://learn.unity.com/tutorial/welcome-to-unity-essentials)   
 ![image](https://user-images.githubusercontent.com/20149493/223066437-deaf55e5-d250-4554-ac96-79d9a9bec0df.png)  
@@ -164,5 +201,16 @@ Just a reminder that your best friends in the industry are:
   - This git is an attempt of calibrating a room based on a triangulation of three points in OpenXR
 - https://github.com/EloiStree/2023_03_16_HowToImportAssetsInUnity
   - This git is a fork with assets created or imported from outside of Unity as demo.
+
+
+## App installed by default on the Quest 
+
+### Google Slide Intern
+
+- Mathias Nassar , Hand: https://docs.google.com/presentation/d/1PegtfR9P9JjvpICLB3U2YxrpvLgQw1q1n9YfYqyPSkY/edit?usp=drivesdk
+- Chergui Sami , Passthrough: https://docs.google.com/presentation/d/1rbmaX39ZwzcWvn5hm7l3pibpewQ1tVHxMidR6CqAZkM/edit?usp=drivesdk
+- Ryan Faray, Drawing: https://docs.google.com/presentation/d/1koagoFA6eHDga1DKILzPzgQp4kQZ5z-i/edit#slide=id.p1
+- Sofiane Jnaoui , VR Chat: https://docs.google.com/presentation/d/1NjZyiuG7OEQWkYQRmCDSEMA8ix4ODB2ORgB7SCqXhD4/edit#slide=id.p
+ 
 
 
